@@ -1,4 +1,4 @@
-#/usr/bin/perl
+#!/usr/bin/perl
 
 # Simple private key generation.
 # To be later for encoding/decoding data
