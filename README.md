@@ -1,5 +1,7 @@
 perl-exercise
 =============
+## Description
+Sending RSA encryption via HTTP POST using LWP, RSA::Crypt and decrypting on the other end.
 
 ## Requirements
 Install the following via CPAN:
