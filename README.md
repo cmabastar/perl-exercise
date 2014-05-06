@@ -1,7 +1,11 @@
 perl-exercise
 =============
 ## Description
-Sending RSA encryption via HTTP POST using LWP, RSA::Crypt and decrypting on the other end.
+Sending RSA encryption via HTTP POST using LWP, RSA::Crypt and decrypting on the other end. 
+
+Built using:
+	perl 5.16
+    Freebsd 10.0 release
 
 ## Requirements
 Install the following via CPAN:
